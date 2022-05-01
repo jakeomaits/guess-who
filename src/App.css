@@ -1,0 +1,98 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.questionRow {
+  font-weight: bold;
+  padding: 10px;
+}
+
+.questionButtonContainer {
+  padding: 20px;
+  text-align: center;
+}
+
+.cardWrapper
+{
+  padding:30px;
+}
+
+
+.cardRow {
+  display: flex;
+  flex-wrap: nowrap;
+  text-align: center; 
+  margin-left:auto;
+  margin-right:auto;
+  width: 100%;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.question-container {
+  padding: 50px;
+}
+
+.questionTableContainer 
+{
+  display: flex;
+  justify-content: center;
+  
+}
+
+#parent {
+  display: flex;
+}
+#narrow {
+  width: 500px;
+  /* Just so it's visible */
+}
+#wide {
+  flex: 1;
+  /* Grow to rest of container */
+  /* Just so it's visible */
+}
+
+
+.question {
+  padding: 20px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.flex-fixed-width-item {
+  flex: 0 0 600px;
+}
+
+.memberCard
+{
+  width:240px;
+  height:auto;
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,552 @@
+{
+	"teams": [{
+			"name": "Payments",
+			"manager": "Sabari Krishna",
+			"points": 0,
+			"members": [{
+					"name": "Jake Omaits",
+					"title": "Sr. Software Engineer",
+					"hired": "March 2012",
+					"photo": "./photos/JakeOmaits.jpg",
+					"questions": []
+				},
+				{
+					"name": "Austin Reed",
+					"title": "Software Engineer",
+					"hired": "June 2019",
+					"photo": "",
+					"questions": [{
+						"pointsCorrect": 5,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "PADI certified for scuba diving"
+					}, {
+						"pointsCorrect": 4,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Big fan of Elvis"
+					}, {
+						"pointsCorrect": 3,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Plays guitar and piano"
+					}, {
+						"pointsCorrect": 2,
+						"pointsIncorrect": 0.5,
+						"title": "",
+						"clue": "Studied Asian religions and philosophy in college "
+					}, {
+						"pointsCorrect": 1,
+						"pointsIncorrect": 1,
+						"title": "",
+						"clue": "Loves Raspberry Pi and Arduino"
+					}, {
+						"pointsCorrect": 1,
+						"pointsIncorrect": 2,
+						"title": "",
+						"clue": "Recent WVU Grad"
+					}]
+				},
+				{
+					"name": "Brad Rutkowski",
+					"title": "Software Engineer",
+					"hired": "June 2019",
+					"photo": ""
+				},
+				{
+					"name": "Fikir Alemu",
+					"title": "Sr. Software Engineer",
+					"hired": "June 2018",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Paul Grimm",
+					"title": "Software Engineer",
+					"hired": "Feb 2019",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Dom Paunovich",
+					"title": "Software Engineer",
+					"hired": "???",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Andrew Chupka",
+					"title": "Intern",
+					"hired": "June 2019",
+					"photo": "",
+					"questions": []
+				}
+
+			]
+
+		},
+		{
+			"name": "Search",
+			"points": 0,
+			"manager": "Sabu Thomas",
+			"members": [{
+					"name": "Joe Berg",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "DJ Brady",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Ty Garside",
+					"title": "Sr Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": [{
+						"pointsCorrect": 5,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Enjoys craft beer."
+					},{
+						"pointsCorrect": 4,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Had LASIK eye surgery."
+					},{
+						"pointsCorrect": 3,
+						"pointsIncorrect": 0.75,
+						"title": "",
+						"clue": "Has diabetes"
+					},
+					{
+						"pointsCorrect": 2,
+						"pointsIncorrect": 1.25,
+						"title": "",
+						"clue": "Is probably older than you think."
+					},{
+						"pointsCorrect": 1,
+						"pointsIncorrect": 2,
+						"title": "",
+						"clue": "Rubik’s cuber."
+					}
+				]
+				},
+				{
+					"name": "Abu Salahudeen",
+					"title": "Sr Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Josh Koslosky",
+					"title": "Sr Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Christopher Mankos",
+					"title": "Intern",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				}
+			]
+		},
+		{
+			"name": "App Transformation",
+			"points": 0,
+			"manager": "Sean Graham",
+			"members": [{
+					"name": "Alan Bentley",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Javo Ochoa",
+					"title": "Principal Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Amy Odenthal",
+					"title": "Intern",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Ray Yecko",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "George Petrou",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Dave Westerman",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": [ {
+						"pointsCorrect": 5,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "I was born in Butler."
+					},
+					{
+						"pointsCorrect": 4,
+						"pointsIncorrect": 0.5,
+						"title": "",
+						"clue": "I made it into an episode of Red Green, a quirky TV show filmed in Toronto."
+					}, 
+					{
+						"pointsCorrect": 3,
+						"pointsIncorrect": 0.5,
+						"title": "",
+						"clue": "My hobbies are reading, listening to podcasts, and walking."
+					}, {
+						"pointsCorrect": 2,
+						"pointsIncorrect": 1,
+						"title": "",
+						"clue": "My spouse and I take our vacations by visiting art festivals in various states."
+					}, {
+						"pointsCorrect": 1,
+						"pointsIncorrect": 3,
+						"title": "",
+						"clue": "I’ve been working as a software developer longer than a lot of my coworkers have even been alive!"
+					}]
+				}
+			]
+		},
+		{
+			"name": "Mobile",
+			"points": 0,
+			"manager": "Craig McMurray",
+			"members": [{
+					"name": "Bill Puccio",
+					"title": "Sr Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": [{
+						"pointsCorrect": 5,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Installs and refinishes hardwood floors as a side job."
+					}, {
+						"pointsCorrect": 4,
+						"pointsIncorrect": 0.5,
+						"title": "",
+						"clue": "Recently qualified for and played in the national championships for 9 ball in Las Vegas."
+					}, {
+						"pointsCorrect": 3,
+						"pointsIncorrect": 1,
+						"title": "",
+						"clue": "Loves to attend heavy metal concerts."
+					}, {
+						"pointsCorrect": 2,
+						"pointsIncorrect": 2,
+						"title": "",
+						"clue": "2 out of 3 of my children have already graduated high school."
+					}, {
+						"pointsCorrect": 1,
+						"pointsIncorrect": 3,
+						"title": "",
+						"clue": "Been here long enough to work in three different buildings."
+					}]
+				},
+				{
+					"name": "Matt Romaniello",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Shankar Phadatare",
+					"title": "Sr Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Kevin Wu",
+					"title": "Intern",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				}
+			]
+		},
+		{
+			"name": "Cart",
+			"points": 0,
+			"manager": "Sabari Krishna",
+			"members": [{
+					"name": "Abdul Memon",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": [{
+						"pointsCorrect": 5,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Won the President Gold Medal in scouting."
+					}, {
+						"pointsCorrect": 4,
+						"pointsIncorrect": 0.5,
+						"title": "",
+						"clue": "Hobbies include music, cricket, camping and visiting adventurous places."
+					}, {
+						"pointsCorrect": 3,
+						"pointsIncorrect": 2,
+						"title": "",
+						"clue": "Born and raised in Pakistan."
+					}, {
+						"pointsCorrect": 2,
+						"pointsIncorrect": 4,
+						"title": "",
+						"clue": "Has a stammer/speech impediment"
+					}, {
+						"pointsCorrect": 1,
+						"pointsIncorrect": 10000,
+						"title": "",
+						"clue": "Last name is Memon NOT Hai Memon"
+					}]
+				},
+				{
+					"name": "Mahesh Kurup",
+					"title": "Sr Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Molly Hughes",
+					"title": "Intern",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Dylan Scheidt",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				}
+			]
+		},
+		{
+			"name": "Product Display",
+			"points": 0,
+			"manager": "Craig McMurray",
+			"members": [{
+					"name": "Ethan Peters",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Justin Shotsberger",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Oscar Dadfar",
+					"title": "Intern",
+					"hired": "",
+					"photo": "",
+					"questions": [{
+						"pointsCorrect": 5,
+						"pointsIncorrect": 0.0001,
+						"title": "",
+						"clue": "Can recite the alphabet in under 10 minutes"
+					}, {
+						"pointsCorrect": 4,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Doesn’t know how to use a microwave properly"
+					}, {
+						"pointsCorrect": 3,
+						"pointsIncorrect": 0.5,
+						"title": "",
+						"clue": "Plays with badge a lot"
+					}, {
+						"pointsCorrect": 2,
+						"pointsIncorrect": 3,
+						"title": "",
+						"clue": "Contributed least to product team"
+					}, {
+						"pointsCorrect": 1,
+						"pointsIncorrect": 5,
+						"title": "",
+						"clue": "Leaving company soon"
+					}]
+				}
+			]
+		},
+		{
+			"name": "eCom/Custom Product",
+			"points": 0,
+			"manager": "Craig McMurray",
+			"members": [{
+					"name": "Jim Kissel",
+					"title": "Systems Analyst",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Ken Nath",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Brian Litzinger",
+					"title": "Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": [{
+						"pointsCorrect": 5,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Once went scuba diving with sharks"
+					}, {
+						"pointsCorrect": 4,
+						"pointsIncorrect": 0.5,
+						"title": "",
+						"clue": "Have lived in Allegheny County my entire life"
+					}, {
+						"pointsCorrect": 3,
+						"pointsIncorrect": 0.5,
+						"title": "",
+						"clue": "Broke my collarbone while snowboarding (fell in the kiddie terrain park)"
+					}, {
+						"pointsCorrect": 2,
+						"pointsIncorrect": 0.5,
+						"title": "",
+						"clue": "Hobbies include mountain biking, playing video games, and drinking beer"
+					}, {
+						"pointsCorrect": 1,
+						"pointsIncorrect": 1,
+						"title": "",
+						"clue": "Has a dog named Maeby after the character from the TV show Arrested Development (which is my favorite TV show)"
+					}]
+				},
+				{
+					"name": "Vanessa Sudano",
+					"title": "Sr Software Engineer",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				}
+			]
+		},
+
+
+
+
+
+		{
+			"name": "Management",
+			"points": 0,
+			"manager": "JP White",
+			"members": [{
+					"name": "JP White",
+					"title": "Director",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Sean Graham",
+					"title": "Engineering Manager",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Erin Hartman",
+					"title": "Platform Manager",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Sabari Krishna",
+					"title": "Engineering Manager",
+					"hired": "",
+					"photo": "",
+					"questions": [{
+						"pointsCorrect": 5,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Started career as a data entry operator for a space agency"
+					}, {
+						"pointsCorrect": 4,
+						"pointsIncorrect": 0.25,
+						"title": "",
+						"clue": "Hobbies include craft work and gardening – once built a greenhouse in an open terrace."
+					}, {
+						"pointsCorrect": 3,
+						"pointsIncorrect": 1,
+						"title": "",
+						"clue": "Can speak/understand 4 languages"
+					}, {
+						"pointsCorrect": 2,
+						"pointsIncorrect": 1,
+						"title": "",
+						"clue": "Always a student (masters in big data & learning science behind astrology) and a teacher for my child."
+					}, {
+						"pointsCorrect": 2,
+						"pointsIncorrect": 1,
+						"title": "",
+						"clue": "Lived in London UK for an year."
+					}, {
+						"pointsCorrect": 1,
+						"pointsIncorrect": 3,
+						"title": "",
+						"clue": "Recently file patent for software solution I developed."
+					}]
+				},
+				{
+					"name": "Sabu Thomas",
+					"title": "Engineering Manager",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				},
+				{
+					"name": "Craig McMurray",
+					"title": "Engineering Manager",
+					"hired": "",
+					"photo": "",
+					"questions": []
+				}
+			]
+		}
+
+	]
+}
